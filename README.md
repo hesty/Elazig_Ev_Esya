@@ -3,6 +3,7 @@
 - Mysql bağlantısı sırasında sıkıntı çekerseniz dosylarda bulunan sql dosyalarını localineze import edin ve mysqL classındaki gerekli yerleri
 düzenleyin.
 - NetBeans kullanmanız önerilir.
+- Kayıt yapmmadan giriş yapmak istiyorsanız "deneme","deneme" kullanıcı adını ve şifresini kullanabilirsiniz.
 
 #                                                          Projeye Ait Fotoğraflar
 
